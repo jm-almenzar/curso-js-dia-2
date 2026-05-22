@@ -1,4 +1,3 @@
-console.log("APP SE CARGA");
 
 import { tecnologias } from './data/tecnologias.js';
 import { crearTarjetaTecnologia } from './utils/dom.js';

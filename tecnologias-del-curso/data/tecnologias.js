@@ -24,3 +24,5 @@ export const tecnologias = [
         descripcion: 'Ejecuta aplicaciones en entornos aislados.'
     },
 ];
+
+console.log("ESTE ARCHIVO SE IMPORTA");

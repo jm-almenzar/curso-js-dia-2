@@ -10,5 +10,7 @@ function mostrarFrase() {
   const frase = elegirAleatorio(frases);
   parrafoFrase.textContent = frase;
 }
+
 botonFrase.addEventListener("click", mostrarFrase);
 mostrarFrase(); // Mostrar una al cargar la página
+

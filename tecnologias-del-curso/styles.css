@@ -1,0 +1,35 @@
+body{
+    font-family: "Montserrat", sans-serif;
+    background-color: #eee;
+    text-align: center;
+}
+
+main{
+    color: blue;
+    background-color: #ccc;
+    font-weight: bold;
+    padding: 1em;
+    margin: 0 auto;
+    width: 75%;
+}
+
+/* .tarjetas{
+    background-color: orange;
+    padding: 1em;
+    margin: 1em auto;
+    width: 75%;
+    display: flex;
+} */
+
+.tarjeta{
+    background-color: white;
+    border: 3px solid #333;
+    padding: 1em;
+    margin: 0 auto 1em auto;
+    width: 50%;
+}
+
+.tipo{
+    color:cadetblue;
+    font-style: italic;   
+}

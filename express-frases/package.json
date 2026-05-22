@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "name": "express-frases",
+  "version": "1.0.0",
+  "description": "1. ¿Qué diferencia hay entre un servidor Express y Apache (el de la Práctica\r A)?",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
